@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/AKIRA-AI-Dev/AKIRA-AI-Dev/main/ChatGPT%20Image%2012%20нояб.%202025%20г.,%2005_17_09.png)
+
 # 👋 Hi, I'm Nazar — aka AKIRA-AI-Dev  
 
 ### 🤖 Telegram Bot Developer | AI Automation Specialist | Python Enthusiast  
